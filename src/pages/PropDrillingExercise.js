@@ -86,7 +86,7 @@ const RootComponent = (props) => {
           <ProductPage
             products={products}
             addProduct={addProductToCart}
-            removedProduct={removeProductFromCart}
+            removeProduct={removeProductFromCart}
           />
         </Grid>
         <Grid item md={6}>
