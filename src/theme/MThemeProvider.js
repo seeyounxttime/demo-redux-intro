@@ -25,7 +25,6 @@ const WARNING = {
   main: "#F2D34E",
   contrastText: "#000",
 };
-const VARIANTBTN = {};
 
 function MThemeProvider({ children }) {
   const themeOptions = createTheme({
