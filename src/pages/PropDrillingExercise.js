@@ -241,7 +241,7 @@ const ProductTwo = (props) => {
               variant="error"
               size="sm"
               style={{ width: "5rem" }}
-              onClick={() => props.reomveProduct(props.product)}
+              onClick={() => props.removeProduct(props.product)}
             >
               Remove
             </Button>
